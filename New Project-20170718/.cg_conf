@@ -1,0 +1,1 @@
+{"id":"sqlite","ext":"sql","version":"SQLite v3.11.0","compile":"","execute":"sqlite3 database.sdb < main.sql","preview":"","command":"","file":"/home/cg/src/samples/main.sql","url":"execute_sql_online.php","mode":"sql"}
